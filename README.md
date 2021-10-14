@@ -34,6 +34,8 @@ Professional lighting equipment is "isolated" meaning the circuitry controlling 
 ![Final project circuit](/images/final_project_hardware.jpeg)
 Final circuit with XLR input & output jacks and a DC power jack in a nice aluminum enclosure!
 
+![Final prokject output jacks](/images/final_xlr_dc_jacks.jpeg)
+
 ## Software
 - [FastLED](https://github.com/FastLED/FastLED/wiki/Overview) - My favorite Arduino library for controlling large numbers of addressable LEDs
 - [Conceptinetics](https://sourceforge.net/p/dmxlibraryforar/wiki/Home/) - Arduino library for listening for DMX serial signals
